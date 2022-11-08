@@ -1,1 +1,1 @@
-# PyTorch_Tutorial
+PyTorch is a machine learning/AI framework that enables use of GPUs and automatic differentiation library for efficient neural network implementations. The tutorials can be found [here](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) as well.
